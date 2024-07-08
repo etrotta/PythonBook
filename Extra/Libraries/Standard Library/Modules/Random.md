@@ -1,0 +1,1 @@
+focus more on the concept and examples than actually documenting its methods

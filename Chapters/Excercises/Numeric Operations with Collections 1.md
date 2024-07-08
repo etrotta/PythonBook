@@ -1,0 +1,1 @@
+Calculate the Sum, Geometric Mean, Median and Mode of a list of numbers

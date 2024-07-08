@@ -1,0 +1,1 @@
+focus more on the fact that you can import functions other developers have created than actually documenting what math has to offer
